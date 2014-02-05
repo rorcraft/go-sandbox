@@ -1,0 +1,9 @@
+* caching issues?
+* logging
+* Arguments
+  * port
+  * directory
+  * help
+  * log
+* ftp
+* nice to have - cssify 
